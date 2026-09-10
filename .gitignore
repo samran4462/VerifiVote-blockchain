@@ -1,0 +1,20 @@
+# dependencies
+/node_modules
+
+# hardhat compilation
+/artifacts
+/cache
+/typechain
+/typechain-types
+
+# environment variables
+.env
+.env.*
+!.env.example
+
+# logs
+*.log
+
+# misc
+.DS_Store
+Thumbs.db
